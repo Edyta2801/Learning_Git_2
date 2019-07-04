@@ -1,4 +1,7 @@
-body{
-    margin:20px 100px 20px 100px;
+body {
+    margin: 20px 100px 20px 100px;
     font-family: cursive;
+    background-image: url("https://images.pexels.com/photos/320956/pexels-photo-320956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: cover;
+    line-height: 0.5;
 }
