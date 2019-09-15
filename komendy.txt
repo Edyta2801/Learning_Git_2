@@ -1,2 +1,1 @@
-npm i autoprefixer-cli
-npm i nu-html-checker
+autoprefixer-cli -o style.prefixed.css style.css
