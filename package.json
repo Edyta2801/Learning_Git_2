@@ -23,7 +23,7 @@
   "dependencies": {
     "autoprefixer-cli": "^1.0.0",
     "g": "^2.0.1",
-    "npm": "^6.11.3",
+    "npm": "^6.14.6",
     "nu-html-checker": "^0.1.0"
   }
 }
